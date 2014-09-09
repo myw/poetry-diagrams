@@ -1,0 +1,3 @@
+module PoetryDiagrams.Internal
+    (
+    ) where
